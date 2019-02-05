@@ -1,0 +1,3 @@
+This application pulls data from the Hacker News API and presents it in a simple manner. 
+
+It was built to solidify my knowledge in Next.JS and to also try out a few other new techniques. 
